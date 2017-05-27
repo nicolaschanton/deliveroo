@@ -10,7 +10,7 @@ db = client.deliveroo
 logs_doc = open("/logs.txt", "w")
 
 
-for i in range(3000, 10000):
+for i in range(0, 100000):
     try:
         proxy = random_proxy()
         header = {"User-agent": random_ua()}
