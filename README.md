@@ -1,4 +1,4 @@
-# deliveroo
+# Deliveroo
 
 A simple method to get Deliveroo's restaurants using their mobile API
 
